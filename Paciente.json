@@ -1,0 +1,11 @@
+{
+        "id": 4,
+        "tipoDocumento": "PA - Cedula",
+        "numeroDocumento": "14457896",
+        "nombres": "Jose Maria",
+        "apellidos": "Posada",
+        "correoElectronico": "JosePosadao@hotmail.com",
+        "telefono": "318452696",
+        "fechaNacimiento": "1989-12-10T00:00:00",
+        "estadoAfiliacion": "Activo"
+    }
